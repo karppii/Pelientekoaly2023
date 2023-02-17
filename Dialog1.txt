@@ -1,0 +1,24 @@
+1;Teksti1;N/A;N/A;1;
+2;Moi;N/A;N/A;5;
+3;Hei;N/A;N/A;9;
+4;Terve;N/A;N/A;13;
+
+5;Teksti2;N/A;N/A;5;
+6;Hyvin menee;N/A;N/A;17;
+7;Ei mene hyvin;N/A;N/A;0;
+8;Painu himskattiin;N/A;N/A;0;
+
+9;Teksti3;N/A;N/A;9;
+10;ookoo;N/A;N/A;0;
+11;selvä;N/A;N/A;0;
+12;juu;N/A;N/A;0;
+
+13;Teksti4;N/A;N/A;13;
+14;Aha;N/A;N/A;0;
+15;jepjep;N/A;N/A;0;
+16;joo;N/A;N/A;17;
+
+17;Teksti5;N/A;N/A;17;
+18;kiva;N/A;N/A;0;
+19;mukava kuulla;N/A;N/A;0;
+20;moi moi;N/A;N/A;0;
